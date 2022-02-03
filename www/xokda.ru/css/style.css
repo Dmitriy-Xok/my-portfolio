@@ -367,6 +367,9 @@ footer {
 .contacts p:last-child {
     margin-top: 16px;
 }
+.contacts a {
+    color: #FFFFFF;
+}
 .icons {
     display: flex;
     justify-content: space-between;
